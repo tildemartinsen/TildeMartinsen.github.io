@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD research fellow @ UCD in MSCA-project 'NUTRIOME'"
+  location         : "Dublin, Ireland"
+  employer         : "University College Dublin"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tilde.martinsen@ucdconnect.ie" 
 
   # Academic websites
   academia         : # URL
